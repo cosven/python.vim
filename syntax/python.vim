@@ -1,1 +1,1 @@
-syn keyword Indentifier self cls
+syn keyword Identifier self cls
